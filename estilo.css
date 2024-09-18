@@ -80,7 +80,7 @@ form {
     gap: 15px;
 }
 
-input[type="test"], input[type="password"] {
+input[type="text"], input[type="password"] {
     padding: 10px;
     border-radius: 5px;
     border: none;
